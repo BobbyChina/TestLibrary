@@ -18,4 +18,8 @@ public class BookActivity extends AppCompatActivity {
     public static void del(){
 
     }
+
+    public static void selecter(){
+
+    }
 }
