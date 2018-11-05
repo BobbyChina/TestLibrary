@@ -12,7 +12,9 @@ class MainActivity : AppCompatActivity() {
         Log.i("out", "这里啥也没有，就是拿来测试的")
     }
 
-    fun test(){
+    companion object {
+        fun testLibrary() {
 
+        }
     }
 }
